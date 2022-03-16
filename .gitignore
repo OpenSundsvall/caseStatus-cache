@@ -108,4 +108,4 @@ dist
 *.env
 
 # Docker
-*Dockerfile
+Dockerfile
