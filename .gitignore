@@ -106,3 +106,6 @@ dist
 
 # Local enviromental variables
 *.env
+
+# Docker
+*Dockerfile
